@@ -57,7 +57,7 @@ Successful passwordless SSH communication between the master node and worker nod
 
 ### Distributed MPI Execution
 
-![minst Test](mnist_test.png)
+![MPI Test](minst_test.png)
 
 Execution of the distributed MPI-based machine learning application across multiple processes running on the HPC cluster.
 
