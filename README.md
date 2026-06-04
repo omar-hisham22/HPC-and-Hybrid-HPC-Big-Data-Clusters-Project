@@ -49,7 +49,7 @@ This project presents the implementation of both a traditional High-Performance 
 
 ### Passwordless SSH Configuration
 
-Passwordless SSH Configuration
+[ssh_passwordless]_(ssh_passwordless.png)
 
 Successful passwordless SSH communication between the master node and worker nodes, enabling seamless MPI execution across the cluster.
 
@@ -57,7 +57,7 @@ Successful passwordless SSH communication between the master node and worker nod
 
 ### Distributed MPI Execution
 
-![MPI Test](mnist_test.png)
+![minst Test](mnist_test.png)
 
 Execution of the distributed MPI-based machine learning application across multiple processes running on the HPC cluster.
 
