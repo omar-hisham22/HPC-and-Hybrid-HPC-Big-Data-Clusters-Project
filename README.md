@@ -49,7 +49,7 @@ This project presents the implementation of both a traditional High-Performance 
 
 ### Passwordless SSH Configuration
 
-![Passwordless SSH](screenshots/ssh_passwordless.png)
+Passwordless SSH Configuration
 
 Successful passwordless SSH communication between the master node and worker nodes, enabling seamless MPI execution across the cluster.
 
